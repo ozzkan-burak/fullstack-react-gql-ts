@@ -1,1 +1,0 @@
-# fullstack-react-gql-ts
